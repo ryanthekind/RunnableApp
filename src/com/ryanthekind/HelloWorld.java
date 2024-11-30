@@ -17,11 +17,10 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World! This is my first runnable app with the use of a runnable JAR file!");
-		System.out.println("Thanks for visiting!");
+
 		System.out.println("Press Enter to exit...");
-		System.out.println("Thanks again!");
 		
-		
+		// the Scanner class allows the command line to appear and stay open for the user to interact with it.
 		Scanner scanner = new Scanner(System.in);
 		scanner.nextLine();
 
