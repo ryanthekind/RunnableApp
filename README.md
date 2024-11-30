@@ -27,6 +27,8 @@ If it doesn't ru, then there's a problem with the JAR file or Java runtime.
 
 1. first find the path to your jdk. in the command line you can type "where java." Once you know the jdk version you can go to the next step.
 
+Thanks for reading!
+
 2. Right click on the desktop, New > Shortcut
 
 "C:\Program Files\Java\jdk-[version]\bin\javaw.exe" -jar "C:\full\path\to\HelloWorldApp.jar"
